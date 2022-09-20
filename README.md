@@ -1,6 +1,6 @@
-# On the Impact of Single and Co-occurrent Refactorings on Quality Attributes in Android Applications
+## On the Impact of Single and Co-occurrent Refactorings on Quality Attributes in Android Applications
 
-This is the Github assets our submission titled "On the Impact of Single and Co-occurrent Refactorings on Quality Attributes in Android Applications". 
+This repository contains our replication package for our submission titled "On the Impact of Single and Co-occurrent Refactorings on Quality Attributes in Android Applications". 
 
 We provide the necessary data to replicate the results of our study:
 
